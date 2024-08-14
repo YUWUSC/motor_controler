@@ -1,0 +1,20 @@
+	---> Registering atexit function
+	---> Initialize gblExecutionInfo
+	---> i18n_init
+	---> Parse Arguments
+The argument '-tgtconn_server_info_file' passed to rtiostream_tcpip is not valid and will be ignored.
+The argument 'C:\Users\86159\AppData\Local\Temp\tgtconnp0ff9280e_7074_4b98_ab9f_6b02a561218b.info' passed to rtiostream_tcpip is not valid and will be ignored.
+The argument '-tgtconn_port' passed to rtiostream_tcpip is not valid and will be ignored.
+The argument '0' passed to rtiostream_tcpip is not valid and will be ignored.
+	---> SetupExecutionServices
+	---> sdiInitializeForHostBasedTarget
+	---> Initialize the model
+	---> rsimLoadOptionsFromMATFile
+	---> ssRunSimulation
+	---> slsaFreeOPModelData
+	---> TgtConnTerm
+	---> rtwISigstreamManagerDestroyInstance
+	---> rtwLoggingIntervalDestroyInstance
+	---> rt_RapidReleaseDiagLoggerDB
+	---> rt_RapidFreeGbls
+	---> rtDestroyRevalMgr
